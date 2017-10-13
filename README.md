@@ -12,8 +12,16 @@ https://www.educative.io/collection/5740745361195008/5676830073815040
 
 `npm install --save <package>` to include it in package.json
 
-##  npm and node
 ##  Installation
+
+CDN
+    <script src="https://unpkg.com/react@15/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@15/dist/react-dom.js"></script>
+
+or npm w/ **Babel** `npm install --save react react-dom`
+
+`create-react-app` is **preferred way** as zero-config setup
+
 ##  Zero-Configuration Setup
 ##  Introduction to JSX
 ##  ES6 const and let
