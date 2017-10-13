@@ -53,6 +53,8 @@ or npm w/ **Babel** `npm install --save react react-dom`
 
 :shipit: [My first Var](https://github.com/arafatm/edu_road_to_learn_react/commit/6542862)
 
+:shipit: [Exercise: render a complex user object](https://github.com/arafatm/edu_road_to_learn_react/commit/dcd9c42)
+
 ##  ES6 const and let
 ##  ReactDOM
 ##  Hot Module Reloading
