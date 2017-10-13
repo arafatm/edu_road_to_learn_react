@@ -40,6 +40,10 @@ or npm w/ **Babel** `npm install --save react react-dom`
 
 `npm run build` Builds the application for production
 
+### Exercise
+
+:shipit: [$ sudo npm install -g create-react-app](https://github.com/arafatm/edu_road_to_learn_react/commit/a524817)
+
 ##  Introduction to JSX
 ##  ES6 const and let
 ##  ReactDOM
