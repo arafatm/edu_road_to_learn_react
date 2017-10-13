@@ -45,6 +45,14 @@ or npm w/ **Babel** `npm install --save react react-dom`
 :shipit: [$ sudo npm install -g create-react-app](https://github.com/arafatm/edu_road_to_learn_react/commit/a524817)
 
 ##  Introduction to JSX
+
+`class App extends Component` instantiates the App component to be used across the app
+- `render()` is the element returned
+
+:shipit: [Clean up clutter in App.js](https://github.com/arafatm/edu_road_to_learn_react/commit/6fd7ed5)
+
+:shipit: [My first Var](https://github.com/arafatm/edu_road_to_learn_react/commit/6542862)
+
 ##  ES6 const and let
 ##  ReactDOM
 ##  Hot Module Reloading
