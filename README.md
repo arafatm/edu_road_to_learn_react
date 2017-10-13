@@ -23,6 +23,23 @@ or npm w/ **Babel** `npm install --save react react-dom`
 `create-react-app` is **preferred way** as zero-config setup
 
 ##  Zero-Configuration Setup
+
+    npm install -g create-react-app
+
+    create-react-app --version
+
+- `src/App.js` is main file to implement components
+- `src/App.test.js`  for tests
+- `src/index.css` & `src/App.css` for styles
+
+- `package.json` & `node_modules/` to manage packages
+
+`npm start` Runs the application in http://localhost:3000
+
+`npm test` Runs the tests
+
+`npm run build` Builds the application for production
+
 ##  Introduction to JSX
 ##  ES6 const and let
 ##  ReactDOM
