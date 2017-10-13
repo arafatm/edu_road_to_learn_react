@@ -3,6 +3,7 @@
 https://www.educative.io/collection/5740745361195008/5676830073815040
 
 #  Bootstrap your React App
+
 ##  Requirements
 
     node --version  # *v7.4.0
@@ -10,9 +11,6 @@ https://www.educative.io/collection/5740745361195008/5676830073815040
     npm --version   # *v4.0.5
 
 `npm install --save <package>` to include it in package.json
-
-
-
 
 ##  npm and node
 ##  Installation
