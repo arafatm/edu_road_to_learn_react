@@ -15,6 +15,7 @@ https://www.educative.io/collection/5740745361195008/5676830073815040
 ##  Installation
 
 CDN
+
     <script src="https://unpkg.com/react@15/dist/react.js"></script>
     <script src="https://unpkg.com/react-dom@15/dist/react-dom.js"></script>
 
@@ -56,6 +57,13 @@ or npm w/ **Babel** `npm install --save react react-dom`
 :shipit: [Exercise: render a complex user object](https://github.com/arafatm/edu_road_to_learn_react/commit/dcd9c42)
 
 ##  ES6 const and let
+
+`const` (immutable) vs `let` (mutable)
+- `const hello = "Hello` is immutable
+- `const` on an array or object can be modified
+
+:caution: default to using `const` unless you are sure you need `let`
+
 ##  ReactDOM
 ##  Hot Module Reloading
 ##  Complex JavaScript in JSX
