@@ -72,7 +72,7 @@ or npm w/ **Babel** `npm install --save react react-dom`
 
 In default example below `App` is the main App component in `App.js`
 
-```js
+```javascript
 ReactDOM.render(
   <App />,
   document.getElementById('root')
@@ -81,7 +81,7 @@ ReactDOM.render(
 
 Can also pass JSX directly e.g.
 
-```js
+```javascript
 ReactDOM.render(
   <h1>Hello React World</h1>,
   document.getElementById('root')
