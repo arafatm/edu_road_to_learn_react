@@ -92,6 +92,8 @@ ReactDOM.render(
 
 Hot Module Replacement **HMR** allows hot reloading by adding `if (module.hot) { module.hot.accept(); }` to `index.js`
 
+:shipit: [enable HMR (hot module replacement)](https://github.com/arafatm/hackernews/commit/b7688ad)
+
 ##  Complex JavaScript in JSX
 ##  ES6 Arrow Functions
 ##  ES6 Classes
