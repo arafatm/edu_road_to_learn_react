@@ -81,7 +81,7 @@ ReactDOM.render(
 
 Can also pass JSX directly e.g.
 
-```javascript
+```js
 ReactDOM.render(
   <h1>Hello React World</h1>,
   document.getElementById('root')
@@ -89,6 +89,9 @@ ReactDOM.render(
 ```
 
 ##  Hot Module Reloading
+
+Hot Module Replacement **HMR** allows hot reloading by adding `if (module.hot) { module.hot.accept(); }` to `index.js`
+
 ##  Complex JavaScript in JSX
 ##  ES6 Arrow Functions
 ##  ES6 Classes
