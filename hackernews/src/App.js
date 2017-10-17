@@ -7,7 +7,7 @@ class App extends Component {
       return 'Welcome ' + user.firstname + ' ' + user.lastname + ' to the Road to Learn React';
     }
     const user = { 
-      firstname: 'Harper',
+      firstname: 'Mike',
       lastname: 'Perez'
     };
     return (
