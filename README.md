@@ -66,24 +66,27 @@ or npm w/ **Babel** `npm install --save react react-dom`
 
 ##  ReactDOM
 
-`ReactDOM.render` in [index.js](/hackernews/src/index.js#L7) is main function
-- args:
-  1. JSX that is rendered
-  2. HTML element to hook
+`ReactDOM.render` in [index.js](/hackernews/src/index.js#L7) is main function w/ args:
+1. JSX that is rendered
+2. HTML element to hook
 
 In default example below `App` is the main App component in `App.js`
 
-    ReactDOM.render(
-      <App />,
-      document.getElementById('root')
-    );
+```js
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+);
+```
 
 Can also pass JSX directly e.g.
 
-    ReactDOM.render(
-      <h1>Hello React World</h1>,
-      document.getElementById('root')
-    );
+```js
+ReactDOM.render(
+  <h1>Hello React World</h1>,
+  document.getElementById('root')
+);
+```
 
 ##  Hot Module Reloading
 ##  Complex JavaScript in JSX
