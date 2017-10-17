@@ -72,7 +72,7 @@ or npm w/ **Babel** `npm install --save react react-dom`
 
 In default example below `App` is the main App component in `App.js`
 
-```javascript
+```js
 ReactDOM.render(
   <App />,
   document.getElementById('root')
