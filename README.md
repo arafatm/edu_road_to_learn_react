@@ -97,6 +97,7 @@ Hot Module Replacement **HMR** allows hot reloading by adding `if (module.hot) {
 :shipit: [testing hmr](https://github.com/arafatm/hackernews/commit/a52bdb4)
 
 ##  Complex JavaScript in JSX
+
 ##  ES6 Arrow Functions
 ##  ES6 Classes
 ##  Recap
