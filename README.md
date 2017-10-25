@@ -104,6 +104,8 @@ Hot Module Replacement **HMR** allows hot reloading by adding `if (module.hot) {
 - A function expression always defines its own `this` object
 - Arrow function expressions still have the `this` object of the enclosing context
 
+:shipit: [Use arrow function](https://github.com/arafatm/edu_road_to_learn_react/commit/443518c)
+
 ##  ES6 Classes
 ##  Recap
 

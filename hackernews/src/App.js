@@ -24,19 +24,17 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {list.map(item => {
-          return (
-            <div>
-              <span><a href={item.url}>{item.title}</a></span>
-              &nbsp;
-              <span>{item.author}</span>
-              &nbsp;
-              <span>{item.num_comments}</span>
-              &nbsp;
-              <span>{item.points}</span>
-            </div>
-          );
-        })}
+        {list.map(item => 
+          <div>
+            <span><a href={item.url}>{item.title}</a></span>
+            &nbsp;
+            <span>{item.author}</span>
+            &nbsp;
+            <span>{item.num_comments}</span>
+            &nbsp;
+            <span>{item.points}</span>
+          </div>
+        )}
       </div>
     );
   }
