@@ -96,9 +96,14 @@ Hot Module Replacement **HMR** allows hot reloading by adding `if (module.hot) {
 
 :shipit: [testing hmr](https://github.com/arafatm/hackernews/commit/a52bdb4)
 
-##  Complex JavaScript in JSX
-
 ##  ES6 Arrow Functions
+
+`() => { ... }` == `function () { ... }`
+
+:caution: 
+- A function expression always defines its own `this` object
+- Arrow function expressions still have the `this` object of the enclosing context
+
 ##  ES6 Classes
 ##  Recap
 
