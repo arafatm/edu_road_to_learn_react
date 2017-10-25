@@ -1,6 +1,20 @@
 import React, { Component } from 'react';
 import './App.css';
 
+class Developer {
+  constructor(firstname, lastname) {
+    this.firstname = firstname;
+    this.lastname = lastname;
+  }
+
+  getName() {
+    return this.firstname + ' ' + this.lastname;
+  }
+}
+
+const robin = new Developer('Robin', 'Wieruch');
+console.log(robin.getName());
+
 const list = [
   {
     title: 'React',

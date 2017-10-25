@@ -106,7 +106,12 @@ Hot Module Replacement **HMR** allows hot reloading by adding `if (module.hot) {
 
 :shipit: [Use arrow function](https://github.com/arafatm/edu_road_to_learn_react/commit/443518c)
 
+:shipit: [using arrow functio allows us to remove curly braces](https://github.com/arafatm/edu_road_to_learn_react/commit/548c5ea)
+
 ##  ES6 Classes
+
+
+
 ##  Recap
 
 #  Basics in React
